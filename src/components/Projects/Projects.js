@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import insurtechImage from "../../Assets/Projects/leaff.png";
 import inotebook from "../../Assets/Projects/inotebook.png";
 import tcs from "../../Assets/Projects/tcs.png";
 import zomatoImage from "../../Assets/Projects/zomatoImage.png";
