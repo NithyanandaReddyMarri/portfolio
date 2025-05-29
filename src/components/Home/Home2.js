@@ -56,6 +56,7 @@ function Home2() {
                   <a
                     href='https://www.linkedin.com/in/nithya-nanda-a71942241/'
                     target='_blank'
+                    rel='noreferrer'
                   >
                     linkedin.com/in/nithya-nanda-a71942241
                   </a>
